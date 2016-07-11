@@ -20,9 +20,9 @@ for (key, value) in airports {
     print("The abbreviation for \(value) is \(key)")
 }
 
-for (airportCode, airportName) in airports {
-    print("The abbreviation for \(airportName) is \(airportCode)")
-}
+//for (airportCode, airportName) in airports {
+//    print("The abbreviation for \(airportName) is \(airportCode)")
+//}
 
 
 
